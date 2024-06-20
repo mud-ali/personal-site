@@ -21,7 +21,7 @@ export const projectsData = [
 		title: "Havel",
 		year: "2023",
 		description:
-			"A mobile app that intelligently reccomends homestays to travelers based on their demogrpahics and preferences.",
+			"A mobile app that intelligently recommends homestays to travelers based on their demographics and preferences.",
 		tools: [
 			{ id: 0, name: "React-Native" },
 			{ id: 1, name: "Expo" },
@@ -70,7 +70,7 @@ export const projectsData = [
 		title: "NJIT Planner",
 		year: "2022",
 		description:
-			"An application that generatews a calendar on Notion for NJIT students to plan out their semester.",
+			"An application that generates a calendar on Notion for NJIT students to plan out their semester.",
 		tools: [
 			{ id: 0, name: "Python 3" },
 			{ id: 1, name: "Twilio" },
